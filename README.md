@@ -1,0 +1,65 @@
+# Pharos Testnet Automation Tool (Releases)
+
+[![GitHub Release](https://img.shields.io/github/v/release/your-username/Pharos-Testnet-Automation-Releases?style=flat-square)](https://github.com/your-username/Pharos-Testnet-Automation-Releases/releases)
+[![License](https://img.shields.io/github/license/your-username/Pharos-Testnet-Automation-Releases?style=flat-square)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/your-username/Pharos-Testnet-Automation-Releases?style=flat-square)](https://github.com/your-username/Pharos-Testnet-Automation-Releases/commits/main)
+[![Stars](https://img.shields.io/github/stars/your-username/Pharos-Testnet-Automation-Releases?style=social)](https://github.com/your-username/Pharos-Testnet-Automation-Releases)
+
+**Keywords:** Pharos, Testnet, Automation, Tool, Farm, Pharos Network, Validator, Crypto, Cryptocurrency, Blockchain
+
+## О программе
+
+Pharos Farm - мощный автономный инструмент для автоматизации тестнета Pharos Network.
+## Возможности
+*   **Все действия:** Выполнение всех действий в тестнете.
+*   **Полностю автономная работа:** Можно запустить на несколько дней и забыть - все будет работать без вашего участия.
+*   **Умная рандомизация:** Для каждого аккаунта создается УНИКАЛЬНЫЙ маршрут отработки на КАЖДЫЙ ДЕНЬ. 
+*   **Прокси:** Поддержка прокси.
+*   **Статистика по аккаунтам:** Доступ к скрытой информаци об аккаунтах через официальный API.
+*   
+Софт максимально прост к использованию: достаточно просто скачать приложение и запустить. Никаких командных строк, ручного редактирования файлов и т.д
+
+## Как начать работу:
+
+1.  **Скачать последний релиз для вашей платформы:**
+
+    *   Visit the [Releases](https://github.com/your-username/Pharos-Testnet-Automation-Releases/releases) page.
+    *   Download the appropriate package for your operating system (Windows, macOS, Linux).
+
+2.  **Установить:**
+
+    *   **Windows:** Скоро..
+    *   **macOS:**  Скоро..
+    *   **Linux:** Не требует установки, достаточно просто запустить скачанный файл AppImage
+
+3.  **Настройка:**
+
+    *   Добавьте кошельки
+    *   Настройте параметры работы
+
+4.  **Выбор режима:**
+
+    *   Смарт - режим: рекомендуется. Создает уникальный маршрут действий для каждого аккаунта, полностью автоматическая работа
+    *   Обычный запуск: просто выполняет выбранные действия, используйте с умом
+
+## Меры безопасности (ВАЖНО!)
+
+*   **Приватные ключи:** **ЖЕЛАТЕЛЬНО** не используйте кошельки со средствами в майннете!  Лучше использовать отдельные кошельки для тестнета.
+*   **Не делитесь файлами:** Храните конфиг-файл созданный программой ТОЛЬКО НА СВОЕМ УСТРОЙСТВЕ! Он содержит приватные ключи
+
+## Documentation
+
+For more detailed documentation, usage examples, and troubleshooting tips, please visit our [Documentation Site (if available - link here)](https://example.com/pharos-testnet-automation-docs).
+
+## Поддержка
+
+*   **Telegram канал:** [Мой телеграм](https://t.me/drop_squad_crypto) 
+*   **Обновления, исправление багов:** Проект создается в свободное время, все обновления по мере возможностей
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  See the `LICENSE` file for more information.
+
+---
+
+**Дисклеймер:**  Софт предоставляется "как есть". Я не несу ответственности за любые финансовые потери и негативные последствия. Используйте на свой страх и риск.
