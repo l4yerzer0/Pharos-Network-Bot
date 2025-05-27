@@ -1,4 +1,4 @@
-# Pharos Testnet Automation Tool (Releases)
+# Pharos Network Bot (Releases)
 
 [![GitHub Release](https://img.shields.io/github/v/release/l4yerzer0/Pharos-Network-Bot?style=flat-square)](https://github.com/l4yerzer0/Pharos-Network-Bot/releases)
 [![Stars](https://img.shields.io/github/stars/l4yerzer0/Pharos-Network-Bot?style=social)](https://github.com/l4yerzer0/Pharos-Network-Bot-Releases)
