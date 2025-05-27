@@ -1,3 +1,4 @@
+![Снимок экрана 2025-05-24 в 08 31 41](https://github.com/user-attachments/assets/fda55a27-eb68-466b-9922-f4c95f0c62e0)
 # Pharos Network Bot (Releases)
 
 [![GitHub Release](https://img.shields.io/github/v/release/l4yerzer0/Pharos-Network-Bot?style=flat-square)](https://github.com/l4yerzer0/Pharos-Network-Bot/releases)
