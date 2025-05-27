@@ -1,7 +1,7 @@
 # Pharos Testnet Automation Tool (Releases)
 
 [![GitHub Release](https://img.shields.io/github/v/release/l4yerzer0/Pharos-Network-Bot?style=flat-square)](https://github.com/l4yerzer0/Pharos-Network-Bot/releases)
-[![Stars](https://img.shields.io/github/stars/l4yerzer0/Pharos-Testnet-Automation-Releases?style=social)](https://github.com/your-username/Pharos-Testnet-Automation-Releases)
+[![Stars](https://img.shields.io/github/stars/l4yerzer0/Pharos-Network-Bot?style=social)](https://github.com/l4yerzer0/Pharos-Network-Bot-Releases)
 
 **Keywords:** Pharos, Testnet, Automation, Tool, Farm, Pharos Network, Validator, Crypto, Cryptocurrency, Blockchain
 
@@ -54,9 +54,8 @@ For more detailed documentation, usage examples, and troubleshooting tips, pleas
 *   **Telegram канал:** [Мой телеграм](https://t.me/drop_squad_crypto) 
 *   **Обновления, исправление багов:** Проект создается в свободное время, все обновления по мере возможностей
 
-## License
+## GUI
 
-This project is licensed under the [MIT License](LICENSE).  See the `LICENSE` file for more information.
 
 ---
 
