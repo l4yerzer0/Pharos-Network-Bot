@@ -1,9 +1,7 @@
 # Pharos Testnet Automation Tool (Releases)
 
-[![GitHub Release](https://img.shields.io/github/v/release/your-username/Pharos-Testnet-Automation-Releases?style=flat-square)](https://github.com/your-username/Pharos-Testnet-Automation-Releases/releases)
-[![License](https://img.shields.io/github/license/your-username/Pharos-Testnet-Automation-Releases?style=flat-square)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/your-username/Pharos-Testnet-Automation-Releases?style=flat-square)](https://github.com/your-username/Pharos-Testnet-Automation-Releases/commits/main)
-[![Stars](https://img.shields.io/github/stars/your-username/Pharos-Testnet-Automation-Releases?style=social)](https://github.com/your-username/Pharos-Testnet-Automation-Releases)
+[![GitHub Release](https://img.shields.io/github/v/release/l4yerzer0/Pharos-Testnet-Automation-Releases?style=flat-square)](https://github.com/l4yerzer0/Pharos-Testnet-Automation-Releases/releases)
+[![Stars](https://img.shields.io/github/stars/l4yerzer0/Pharos-Testnet-Automation-Releases?style=social)](https://github.com/your-username/Pharos-Testnet-Automation-Releases)
 
 **Keywords:** Pharos, Testnet, Automation, Tool, Farm, Pharos Network, Validator, Crypto, Cryptocurrency, Blockchain
 
@@ -23,8 +21,8 @@ Pharos Farm - мощный автономный инструмент для ав
 
 1.  **Скачать последний релиз для вашей платформы:**
 
-    *   Visit the [Releases](https://github.com/your-username/Pharos-Testnet-Automation-Releases/releases) page.
-    *   Download the appropriate package for your operating system (Windows, macOS, Linux).
+    *   Зайите на страницу релизов (https://github.com/your-username/Pharos-Testnet-Automation-Releases/releases).
+    *   Скачайте файл для вашей ОС.
 
 2.  **Установить:**
 
